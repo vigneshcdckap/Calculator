@@ -1,0 +1,40 @@
+body{
+    background-image: url(images.jpeg);
+    background-size: 100%;
+}
+*{
+    font-size: 30px;
+}
+.col{
+    color: white;
+    background-color :rgb(14 17 57);;
+    border: none;
+    height: 80px;
+    width: 100%;
+}
+.nor{
+    border: none;
+    height: 80px;
+    width: 100%;
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.inp {
+    border: none;
+    height: 74px;
+    width: 125%;
+    background-color: #1a1a1a;
+    color: white;
+}
+#wrap{
+    display: flex;
+    justify-content: center;
+    margin-top: 105px;
+    height: 360px;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+    background-color:rgb(28, 126, 238);
+}
